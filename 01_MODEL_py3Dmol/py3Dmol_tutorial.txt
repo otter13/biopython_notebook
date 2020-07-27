@@ -1,3 +1,4 @@
+命令：
 pip install jupyterlab
 pip install py3Dmol
 (make sure your node version is 10+)
@@ -13,3 +14,11 @@ view.setStyle({'cartoon':{'color':'spectrum'}})
 view
 
 click Run
+
+Jupyter Notebook (我的理解是一种可以记载多个python命令和其执行结果的文件格式，适合数据和教学分析的场景)
+JupyterLab (Visualised IDE 可视化集成开发环境，其实就是网页版的Anaconda)
+py3Dmol: A simple [IPython/Jupyter](http://jupyter.org/) widget to embed an interactive [3Dmol.js](http://3dmol.csb.pitt.edu) viewer in a notebook.
+
+参考:
+https://www.blopig.com/blog/2016/10/viewing-3d-molecules-interactively-in-jupyter-ipython-notebooks/
+https://dmnfarrell.github.io/bioinformatics/genomics-sarscov2-python
